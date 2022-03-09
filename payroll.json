@@ -1,0 +1,92 @@
+[
+  {
+    "ConcernName": "Intimate Elastic",
+    "IP": "192.168.6.60",
+    "Factory_Code": "910"
+  },
+  {
+    "ConcernName": "Avenger",
+    "IP": "192.168.17.27",
+    "Factory_Code": "924"
+  },
+  {
+    "ConcernName": "Islam pack",
+    "IP": "192.168.12.143",
+    "Factory_Code": "911"
+  },
+  {
+    "ConcernName": "Lingerie",
+    "IP": "192.168.7.23",
+    "Factory_Code": "903"
+  },
+  {
+    "ConcernName": "Felix",
+    "IP": "192.168.18.21",
+    "Factory_Code": "000"
+  },
+  {
+    "ConcernName": "4H Fashion",
+    "IP": "192.168.15.23",
+    "Factory_Code": "901"
+  },
+  {
+    "ConcernName": "Divine Int.",
+    "IP": "192.168.13.21",
+    "Factory_Code": "925"
+  },
+  {
+    "ConcernName": "Alamode",
+    "IP": "192.168.11.60",
+    "Factory_Code": "908"
+  },
+  {
+    "ConcernName": "Badgetex",
+    "IP": "192.168.9.23",
+    "Factory_Code": "906"
+  },
+  {
+    "ConcernName": "Divine Design",
+    "IP": "192.168.11.59",
+    "Factory_Code": "909"
+  },
+  {
+    "ConcernName": "Head Office",
+    "IP": "00000",
+    "Factory_Code": "00000"
+  },
+  {
+    "ConcernName": "Belamy",
+    "IP": "192.168.6.30",
+    "Factory Code": "905"
+  },
+  {
+    "ConcernName": "Apparels",
+    "IP": "192.168.8.148",
+    "Factory_Code": "920"
+  },
+  {
+    "ConcernName": "Dyeing",
+    "IP": "192.168.4.133",
+    "Factory_Code": "907"
+  },
+  {
+    "ConcernName": "Fashion HO",
+    "IP": "000000",
+    "Factory_Code": "00000"
+  },
+  {
+    "ConcernName": "Charm",
+    "IP": "192.168.8.168",
+    "Factory_Code": "922"
+  },
+  {
+    "ConcernName": "Nafisa",
+    "IP": "192.168.16.25",
+    "Factory_Code": "919"
+  },
+  {
+    "ConcernName": "F&F",
+    "IP": "192.168.10.20",
+    "Factory_Code": "923"
+  }
+]
